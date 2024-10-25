@@ -1,0 +1,14 @@
+[
+    {
+        "package": "dsp_gpu_drivers",
+        "url": "http://100.98.249.168:8081/repository/binary/dsp/dsp_gpu_drivers.tar",
+        "version": "5.15.0-122-generic",
+        "type": "tarball"
+    },
+    {
+        "package": "rocm_installator",
+        "url": "http://100.98.249.168:8081/repository/binary/dsp/rocm-installator.run",
+        "version": "6.0.0",
+        "type": "binary"
+    }
+]
